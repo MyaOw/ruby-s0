@@ -1,1 +1,1 @@
-# ruby-s0
+C'est une belle pyramide !
